@@ -1,0 +1,14 @@
+name: "Test"
+runs:
+  using: "composite"
+  steps:
+  - name: Test
+    run: |
+      echo "Test personalizado"
+      /*
+      * 
+      * 
+      Ramdom but usefull code
+      *
+      *
+      */ 

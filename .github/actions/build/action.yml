@@ -1,0 +1,14 @@
+name: "Build"
+runs:
+  using: "composite"
+  steps:
+  - name: Build
+    run: |
+      echo "Build personalizado"
+      /*
+      * 
+      * 
+      Ramdom but usefull code
+      *
+      *
+      */ 

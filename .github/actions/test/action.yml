@@ -5,10 +5,4 @@ runs:
   - name: Test
     run: |
       echo "Test personalizado"
-      /*
-      * 
-      * 
-      Ramdom but usefull code
-      *
-      *
-      */ 
+  shell: bash

@@ -5,4 +5,4 @@ runs:
   - name: Test
     run: |
       echo "Test personalizado"
-  shell: bash
+    shell: bash
